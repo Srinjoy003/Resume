@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.4)  5 APR 2024 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.4)  2 JUL 2024 21:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -310,11 +310,11 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inpu
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 159.
+(Font)              <10.95> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 159.
+(Font)              <8> on input line 179.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 159.
+(Font)              <6> on input line 179.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -333,20 +333,20 @@ L3 programming layer <2024-03-14>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: E794D787C47AEDD89A2103FFD4B0CD25;297.
+(rerunfilecheck)             Checksum: 07977064D84A70EB590626D62E6B418B;418.
  ) 
 Here is how much of TeX's memory you used:
- 12200 strings out of 474424
- 191435 string characters out of 5741740
- 1952496 words of memory out of 5000000
- 34394 multiletter control sequences out of 15000+600000
- 564652 words of font info for 61 fonts, out of 8000000 for 9000
+ 12204 strings out of 474424
+ 191486 string characters out of 5741740
+ 1956496 words of memory out of 5000000
+ 34397 multiletter control sequences out of 15000+600000
+ 565011 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,301b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 136578 bytes).
+Output written on resume.pdf (1 page, 142724 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
