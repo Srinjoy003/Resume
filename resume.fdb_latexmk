@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1721461164.04804 "c:/Users/srinj/Resume/resume.tex" "resume.pdf" "resume" 1721461165.26957 0
+["pdflatex"] 1722529796.65238 "c:/Users/srinj/Resume/resume.tex" "resume.pdf" "resume" 1722529797.38872 0
   "C:/Users/srinj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1712192896 81273 13337b4d62cad88d859596ff40e690da ""
   "C:/Users/srinj/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1712190854 24236005 62a69e5e7339002b00afd66946c5273c ""
   "C:/Users/srinj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -97,10 +97,10 @@
   "C:/Users/srinj/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700599895 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/srinj/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/srinj/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/srinj/Resume/resume.tex" 1721461163 9707 b88f94504066e588b3dc66356d2ab088 ""
-  "resume.aux" 1721461165 678 cad1a1924a9b8ce64b11dc3dabfc5fa3 "pdflatex"
-  "resume.out" 1721461165 418 07977064d84a70eb590626d62e6b418b "pdflatex"
-  "resume.tex" 1721461163 9707 b88f94504066e588b3dc66356d2ab088 ""
+  "c:/Users/srinj/Resume/resume.tex" 1722529794 11105 53df19a113b3e12761f3a978e7989eaf ""
+  "resume.aux" 1722529797 678 cad1a1924a9b8ce64b11dc3dabfc5fa3 "pdflatex"
+  "resume.out" 1722529797 418 07977064d84a70eb590626d62e6b418b "pdflatex"
+  "resume.tex" 1722529794 11105 53df19a113b3e12761f3a978e7989eaf ""
   (generated)
   "resume.aux"
   "resume.log"

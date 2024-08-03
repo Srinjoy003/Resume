@@ -79,6 +79,14 @@
     \end{tabular*}\vspace{-7pt}
 }
 
+\newcommand{\resumeSubheadingg}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textit{\small#2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
 
 \newcommand{\resumeSubSubheading}[2]{
     \vspace{-2pt}\item
@@ -179,10 +187,12 @@
       {}{}
       \vspace{-15pt}
       \resumeItemListStart
-          \resumeItem{Developed multiple pages for an eCommerce website, including the home page, brands page, and customer service page, using \textbf{NextJS} and \textbf{TailwindCSS}.}
+          \resumeItem{Developed key pages for an upcoming eCommerce platform, including the home page, brands page, and customer service page, utilizing \textbf{NextJS} and \textbf{TailwindCSS}.}
           \resumeItem{Integrated front-end components with backend services to ensure seamless data flow and functionality.}
-          \resumeItem{Collaborated with the design team to implement responsive and user-friendly UI/UX.}
-          \resumeItem{Troubleshot and resolved issues related to front-end and back-end integration, enhancing overall system reliability.}
+          \resumeItem{Worked closely with the design team to implement responsive, user-friendly interfaces, enhancing user experience across different devices.}
+          \resumeItem{Diagnosed and resolved integration issues between front-end and back-end components, significantly improving system reliability and performance.}
+          % \resumeItem{Delivered all assigned tasks ahead of deadlines, receiving positive feedback from supervisors for quality of work and effective collaboration.}
+
       \resumeItemListEnd
       \vspace{10pt}
 
@@ -196,10 +206,10 @@
   \vspace{3pt}
   \resumeSubHeadingListStart
 
-    \resumeSubheading
-    {Key Ninja (\textit{\href{https://key-ninja.vercel.app/}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/touch-typing}{\textbf{\underline{Code}}}})}{}{}{}
+    \resumeSubheadingg
+    {Key Ninja (\textit{\href{https://key-ninja.vercel.app/}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/touch-typing}{\textbf{\underline{Code}}}})}{May 2023 \textbf{--} Dec 2023}
       {}{}
-      \vspace{-15pt}
+      \vspace{-10pt}
         \resumeItemListStart
             \resumeItem{Developed a full-stack web application enabling users to practice, track, and improve their typing speed.}
             \resumeItem{Implemented features for practice and testing of typing skills, including performance tracking and text customization options.}
@@ -209,27 +219,37 @@
         \resumeItemListEnd
         \vspace{10pt}
       
-    \resumeSubheading
-      {Chess Eclipse (\textit{\href{https://chess-liard-nine.vercel.app/}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/chess}{\textbf{\underline{Code}}}})}{}{}{}
-
+    \resumeSubheadingg
+      {Chess Eclipse (\textit{\href{https://chess-liard-nine.vercel.app/}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/chess}{\textbf{\underline{Code}}}})}{Sep 2023 \textbf{--} Feb 2024}
       {}{}
-      \vspace{-15pt}
+      \vspace{-10pt}
         \resumeItemListStart
             \resumeItem{Engineered an engaging online multiplayer Chess game, allowing users to compete with friends and others in
             real-time }
-            \resumeItem{Integrated intuitive user interfaces with \textbf{TailwindCSS}, enhancing the visual appeal and usability of the game.}
-            \resumeItem{Utilized \textbf{Socket.IO} for real-time communication, allowing players to make moves and interact with opponents instantaneously.}
-            \resumeItem{Implemented the project using \textbf{NextJS}, \textbf{ExpressJS}, \textbf{Socket.IO} and \textbf{TailwindCSS} ensuring smooth and responsive gameplay.}
+            \resumeItem{Integrated a chess engine capable of analyzing positions, generating moves, and simulating games. Built using advanced algorithms such as minimax, iterative deepening, quiescence search and principal variation search to optimize performance and decision-making.}
+            \resumeItem{Implemented the project using \textbf{NextJS}, \textbf{ExpressJS}, \textbf{Socket.IO}, \textbf{TailwindCSS} and \textbf{Typescript} }
         \resumeItemListEnd
+        \vspace{10pt}
 
-    \resumeSubheading
-    {BlunderMaster (\textit{\href{https://chess-liard-nine.vercel.app/PlayComputer}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/BlunderMaster-Chess-Engine}{\textbf{\underline{Code}}}})}{}{}{}      {}{}
-      \vspace{-15pt}
+
+    % \resumeSubheading
+    % {BlunderMaster (\textit{\href{https://chess-liard-nine.vercel.app/PlayComputer}{\textbf{\underline{App}}} $|$ \href{https://github.com/Srinjoy003/BlunderMaster-Chess-Engine}{\textbf{\underline{Code}}}})}{}{}{}      {}{}
+    %   \vspace{-15pt}
+    %     \resumeItemListStart
+    %         \resumeItem{Developed a sophisticated chess engine capable of analyzing positions, generating moves, and simulating games.}
+    %         \resumeItem{Implemented data structures and advanced algorithms such as minimax, alpha-beta pruning, iterative deepening, quiescence search, transposition tables, principal variation search to optimize performance and decision-making.}
+    %         \resumeItem{Integrated with \textbf{Chess Eclipse} for seamless interaction, providing players with insights and analysis during gameplay.}
+    %         \resumeItem{Developed the project using \textbf{Typescript}.}
+    %     \resumeItemListEnd
+
+      \resumeSubheadingg
+    {Collaborative Code Editor (\textit{\href{https://github.com/Srinjoy003/collaborative-code-editor}{\textbf{\underline{Code}}}})}{Jun 2024 \textbf{--} Present}
+      \vspace{-10pt}
         \resumeItemListStart
-            \resumeItem{Developed a sophisticated chess engine capable of analyzing positions, generating moves, and simulating games.}
-            \resumeItem{Implemented data structures and advanced algorithms such as minimax, alpha-beta pruning, iterative deepening, quiescence search, transposition tables, principal variation search to optimize performance and decision-making.}
-            \resumeItem{Integrated with \textbf{Chess Eclipse} for seamless interaction, providing players with insights and analysis during gameplay.}
-            \resumeItem{Developed the project using \textbf{Typescript}.}
+            \resumeItem{Developed a real-time collaborative editor using \textbf{Next.js} and \textbf{Express.js}, enabling multiple users to simultaneously edit code.}
+            \resumeItem{Integrated \textbf{Firebase} for secure user authentication and data storage, ensuring seamless user experiences.}
+            \resumeItem{Implemented \textbf{Socket.io} to facilitate real-time communication and collaboration among users, including live chat functionality.}
+            \resumeItem{Supported multiple programming languages, allowing users to run and test code within the platform.}
         \resumeItemListEnd
 
   \resumeSubHeadingListEnd
